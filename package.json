@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev": "nodejs-dashboard -- node -r nodejs-dashboard app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodejs-dashboard": "^0.5.1"
+  }
+}
