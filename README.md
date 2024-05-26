@@ -42,7 +42,7 @@ node 02.js
 ### 3
 
 ```sh
-node app.js
+yarn dev
 ```
 
 Сервер долго не может ответить на эндпоинте `GET /test`, Main thread
